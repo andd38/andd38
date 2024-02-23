@@ -2,10 +2,10 @@
 
 
 
-### ola meu nome é andré estudante técnico de informática😁
+### Prezados, estou cursando Análise e desenvolvimento de Sistemas ainda no 1° semestre. Entrentanto não sou leigo quando o assunto é tecnologia. Sou formado em técnico de informática e fiz muitos projetos , durante o curso.
 
 [![linguagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
-[![linguagem](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+[![linguagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 [![linguagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 [![linguagem](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 [![redesocial](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadm0m3nt5/?next=%2F)
@@ -14,7 +14,7 @@
 
 ![Andre GitHub](https://github-readme-stats.vercel.app/api?username=and38&show_icons=true&theme=dracula)
 
-### por ser ainda apenas um estudante estou praticando uma de cada vez  tecnologias que estão nesse perfil.
+### Procuro estágio na área de desenvolvimento web 
 
 <div style = "display: inline_block"><br/>
 <img align ="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
